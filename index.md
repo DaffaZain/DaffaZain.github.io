@@ -31,9 +31,3 @@ Stroke is a medical condition in which poor blood flow to the brain causes cell 
 - [Project 2 MARKET RESEARCH, RECOMMENDATION, AND VISUALIZATION TECHNIQUE FOR BUSINESS DECISION PROJECT](https://github.com/DaffaZain/DaffaZain1.github.io/blob/master/B_022_026_030_UAS%20PRED.ipynb)
 - [Project 3 CLASSIFICATION DATA ANALYSIS USING PySpark CASE STUDY: Brain Stroke Dataset](https://github.com/DaffaZain/DaffaZain1.github.io/blob/master/Daffa_Andika_Zain_Praktikum_Tugas_Akhir.ipynb)
 
----
-
-
-
-
----
